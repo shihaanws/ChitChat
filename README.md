@@ -3,8 +3,9 @@ A simple Chat App with multiple server rooms : (NodeJS &amp; ExpressJS) with Web
 
 
 # Test Locally
-
-`` npm install
-   npm run dev
+```sh
+npm install
+npm run dev
 
 Go to localhost:3000
+```
