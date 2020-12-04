@@ -9,3 +9,9 @@ npm run dev
 
 Go to localhost:3000
 ```
+(or)
+
+<br>
+<br>
+
+Run on [Repl.it](https://repl.it/@fazimmohammed/ChitChat#server.js)
